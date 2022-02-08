@@ -10,3 +10,35 @@
     text-align: center;
     padding: 0;
 }
+
+.conteiner {
+    max-width: 1460px;
+    
+}
+
+.header-menu {
+    display: flex;
+    height: 87px;
+    
+
+}
+
+.header-menu__item a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.right-menu__login_searchImage {
+    vertical-align: -3px;
+}
+
+.left-header-menu__ul {
+    display: flex;
+    
+}
+
+.right-header-menu__ul {
+    display: flex;
+
+}
